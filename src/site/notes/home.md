@@ -6,6 +6,6 @@
 
 ### 是什么
 
-- My：[你好世界](output/obsidian/你好世界)
+- 第一篇：[你好世界](output/obsidian/你好世界/)
 
 
